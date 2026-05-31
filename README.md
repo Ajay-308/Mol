@@ -89,7 +89,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/archit203/MolVisionary.git
+git clone https://github.com/Ajay-308/MolVisionary
 cd MolVisionary
 ```
 
